@@ -1,2 +1,2 @@
 # Youtube-Comment-Analyser
-Web-scrape youtube comments and analyse the same.
+Web-scrape youtube comments and perform sentiment analysis using  Natural Language Processing (NLP) techniques. The project is built with Python.
