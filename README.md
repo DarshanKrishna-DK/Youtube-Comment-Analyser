@@ -10,10 +10,14 @@ Can be easily customized to analyze comments on specific channels or videos.
 ## Setting up YouTube Data API:
 1. Create a new project in Google Cloud Platform (GCP) or use an existing one.
 2. Enable the YouTube Data API v3 for your project:
+   
    -> Go to the APIs & Services section in your GCP console.
-   -> Search for "YouTube Data API v3" and enable it.
+   
+   -> Search for "YouTube Data API v3" and enable it. 
 4. Create API credentials:
+   
    -> After the enabling the API, click on CREATE CREDENTIALS, to get the API Key.
+   
    -> Select the Public Data radio button, to have access to publicly available youtube data, and click NEXT.
   
 (NOTE: After generating the API key, make sure you save the API key securely, as anyone with access to the API Key can use your account resources to access Youtube data; Click DONE after copying the API key.)
