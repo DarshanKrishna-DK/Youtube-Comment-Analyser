@@ -1,4 +1,11 @@
-# YouTube Comment Analyzer
+<h1 align="center">YouTube Comment Analyzer</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-2563eb?style=for-the-badge" alt="Python" />
+  <img src="https://img.shields.io/badge/VADER-7c3aed?style=for-the-badge" alt="VADER" />
+  <img src="https://img.shields.io/badge/YouTube%20Data%20API-059669?style=for-the-badge" alt="YouTube Data API" />
+  <img src="https://img.shields.io/badge/Sentiment%20Analysis-475569?style=for-the-badge" alt="Sentiment Analysis" />
+</p>
 
 This project uses VADER sentiment analysis, Python, and the YouTube Data API to analyze the sentiment of comments on YouTube videos.
 
